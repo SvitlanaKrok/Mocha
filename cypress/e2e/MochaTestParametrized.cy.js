@@ -1,5 +1,3 @@
-///<reference types="cypress"/>
-
 describe('Parametrized tests', () => {
 describe('First option', () => {
 const paramTest = ({testData, expectedResult}) =>
